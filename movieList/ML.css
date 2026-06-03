@@ -1,0 +1,49 @@
+body {
+	background-color: #4b3b40;
+	font-family: "Syncopate", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+#top {
+	color: #e6dbcf;
+}
+nav {
+	background-color: #b07b7b;
+	color: #82735c;
+	display: flex;
+	justify-content: center;
+	gap: 100px;
+	padding: 10px;
+}
+a {
+	font-family: "Silkscreen", sans-serif;
+	padding: 10px 20px;
+	border-radious: 6px;
+	transition: background-color 0.5s ease;
+	font-size: 20px;
+}
+a:hover {
+	background-color: #afa988;
+	color: #3b281a;
+}
+main {
+	color: #e6dbcf;
+}
+header {
+	font-family: "Silkscreen", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 50px;
+	text-shadow: 5px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.searchBar {
+	font-family: "Syncopate", sans-serif;
+	float: right;
+	padding: 6px 10px;
+	margin-top: 8px;
+	margin-right: 16px;
+	background: #afa988;
+	font-size: 17px;
+	border: none;
+	cursor: pointer;
+}
