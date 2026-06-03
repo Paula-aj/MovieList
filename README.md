@@ -1,3 +1,2 @@
 # MovieList
-A place for people to keep track of the movies they watch
-Uses HTML, CSS, and Javascript
+A place for people to keep track of the movies they watch. This contains HTML, CSS, and JavaScript.
