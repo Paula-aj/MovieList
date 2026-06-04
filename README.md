@@ -1,7 +1,7 @@
 # MovieList
 A place for people to keep track of the movies they watch.
 
-THIS PROJECT IS UNDER DEVELOPMENT
+THIS PROJECT IS IN PROGRESS AND IN ITS EARLY STAGES!
 
 Allows users to browse movies, create and manage movie lists, and organize movies into categories such as "watchlist", "watched", etc.
 
