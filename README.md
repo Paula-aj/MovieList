@@ -7,5 +7,5 @@ Allows users to browse movies, create and manage movie lists, and organize movie
 
 Languages Used:
 
--HTML, CSS, JavaScript
+-HTML, CSS, JavaScript, JSON
 
